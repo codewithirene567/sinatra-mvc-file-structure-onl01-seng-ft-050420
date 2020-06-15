@@ -16,5 +16,6 @@ class Dog
   def save
   self.all << self
   end
+  binding.pry
 
 end
