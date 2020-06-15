@@ -18,7 +18,7 @@ class Dog
   end
 
 def self.count
-  @@all.count
+  all.count
 end
 
 end
