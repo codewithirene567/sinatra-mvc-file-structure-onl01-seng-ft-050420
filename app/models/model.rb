@@ -13,8 +13,8 @@ class Dog
     @@all
   end
 
-def save
+  def save
   self.all << self
-end
+  end
 
 end
