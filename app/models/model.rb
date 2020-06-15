@@ -18,8 +18,6 @@ class Dog
   self.all << self
   end
 
-def self.count
-  self.all.count
-end
+
 
 end
